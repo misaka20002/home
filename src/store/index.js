@@ -91,3 +91,6 @@ export const mainStore = defineStore("main", {
     ],
   },
 });
+
+// todo
+// nothing
